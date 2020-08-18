@@ -16,7 +16,14 @@ body
     margin: 0 auto;
 }
 
+#cabecera {
+    background-color: #F8F;
+    color: #777777;
+}
+
 #container h1
 {
     font-size: 20px;
 }
+
+
