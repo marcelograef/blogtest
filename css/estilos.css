@@ -17,8 +17,10 @@ body
 }
 
 #cabecera {
-    background-color: #88260d;
-    color: #e0c2c2;
+    background-color: rgb(136, 237, 255);
+    color: #777777;
+    height: 100px;
+    text-align: center;
 }
 
 #container h1
